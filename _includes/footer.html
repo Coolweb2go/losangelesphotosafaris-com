@@ -1,0 +1,24 @@
+<footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      {% include social-networks-links.html %}
+      {% if page.footer-extra %}
+        <div class="footer-custom-content">
+          {% for file in page.footer-extra %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+      <p class="copyright text-muted">
+      Theme by <a href="https://beautifuljekyll.com/">beautiful-jekyll </a>
+
+      </p>
+      <!-- Please don't remove this, keep my open source work credited :) -->
+      {% unless site.remove-ads %}<p class="theme-by text-muted">
+        Queen Creek Arizona Information guide for company and business owners in California & New York City who want to move to Arizona
+      </p>{% endunless %}
+      </div>
+    </div>
+  </div>
+</footer>
