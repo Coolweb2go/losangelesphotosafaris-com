@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Sample test post
+title: Los Angeles Instagram/Smart Phone Walking Tour
+cover-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
+thumbnail-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
+share-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]

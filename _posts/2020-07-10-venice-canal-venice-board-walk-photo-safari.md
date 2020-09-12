@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Venice Canal/Venice Board Walk Photo Safari
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/11b7d-love-sculpture-venice-beach-leanne.jpg
+thumbnail-img: /assets/img/11b7d-love-sculpture-venice-beach-leanne.jpg
+share-img: /assets/img/11b7d-love-sculpture-venice-beach-leanne.jpg
 tags: [books, test]
 ---
 

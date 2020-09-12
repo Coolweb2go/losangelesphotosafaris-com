@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Sample blog post
+title: Downtown LA Night Photo Tour
 subtitle: Each post also has a subtitle
+cover-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
+thumbnail-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
+share-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
