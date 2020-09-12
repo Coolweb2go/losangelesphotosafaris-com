@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Find a Tour
-subtitle: Why you'd want to go on a date with me
+title: Los Angeles Photo Safaris
+subtitle: I will be your LA tour guide & personal photographer
 ---
 
 My name is Inigo Montoya. I have the following qualities:
