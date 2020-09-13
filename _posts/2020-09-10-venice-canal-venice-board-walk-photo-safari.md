@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Venice Canal/Venice Board Walk Photo Safari
-subtitle: Tour dates: starts Seot. 28
+subtitle: All beginners are welcome
 cover-img: /assets/img/11b7d-love-sculpture-venice-beach-leanne.jpg
 thumbnail-img: /assets/img/11b7d-love-sculpture-venice-beach-leanne.jpg
 share-img: /assets/img/11b7d-love-sculpture-venice-beach-leanne.jpg
