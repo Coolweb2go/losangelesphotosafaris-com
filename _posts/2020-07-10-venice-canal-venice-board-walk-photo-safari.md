@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Venice Canal/Venice Board Walk Photo Safari
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Tour dates: Sept.28 - Nov.15,2020
 cover-img: /assets/img/11b7d-love-sculpture-venice-beach-leanne.jpg
 thumbnail-img: /assets/img/11b7d-love-sculpture-venice-beach-leanne.jpg
 share-img: /assets/img/11b7d-love-sculpture-venice-beach-leanne.jpg
