@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Los Angeles Photo Safaris
-subtitle: I will be your LA tour guide & personal photographer
+subtitle: Walking/driving photo tours with a pro photographer/LA Tour Guide 
 ---
 
 <img src="https://losangelesphotosafaris.files.wordpress.com/2020/07/1fe87-disney-concert-hall-los-angeles-color-web.jpg" alt="Los Angeles Photo Tours">
