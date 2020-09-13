@@ -1,5 +1,5 @@
 ---
 layout: home
 title: Los Angeles Photo Safaris
-subtitle: I will be your LA tour guide & personal photographer
+subtitle: Got a questions about our photo tours ? Send us email to photosafari@inbox.com
 ---
