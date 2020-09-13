@@ -8,8 +8,7 @@ subtitle: Walking/driving photo tours with a pro photographer/LA Tour Guide
 ***
 Private walking tours with a personal photographer/Los Angeles Guide to capture you– together –in dozens of professional quality photos, 
 as you explore the wonderful and historic attractions & neighborhoods of the great city of Los Angeles. I offer a variety of tour options. 
-Depending on your tour, sites and attractions covered may include some of the following locations: Santa Monica Pier, Venice Beach boardwalk, 
-Hollywood Walk of Fame, Griffith Park, downtown LA , Beverly Hills, Grand Central Market , Hollywood Sign, to name a few.
+Depending on your tour, sites and attractions covered may include some of the following locations: Santa Monica Pier, Venice Beach boardwalk,  Hollywood Walk of Fame, Griffith Park, downtown LA , Beverly Hills, Grand Central Market , Hollywood Sign, to name a few.
 
 In addition to dozens of photos, you will receive a wealth of information, insider tips about off the beaten path Los Angeles, suggested entertainment, dining & shopping options and how to navigate the Los Angeles Metro subway, saving you valuable time and money during your holiday.
 
