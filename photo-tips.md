@@ -35,8 +35,9 @@ Using a found frame within a frame is a great photo composition tool for filling
 
 ### Leading Lines
 ![Leading Lines](https://www.lightandmatter.org/wp-content/uploads/2016/04/leading-lines-bad-1400x844.jpg)
-Photo credit : https://www.lightandmatter.org/
+Photo credit : [Light & Matter]( https://www.lightandmatter.org/)
 
 ## Register for a Photo Tour
 
-https://californiaphotosafaris.com/register-for-a-class/
+[Follow the link](https://californiaphotosafaris.com/register-for-a-class/)
+
