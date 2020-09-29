@@ -35,6 +35,7 @@ Your photo instructors : Elle Gamboa ( night photography specialist ) w
 
 
 ### Register for a photo workshop
+Send me an email to photosafari@inbox.com
 
 {: .box-error}
-**Error:** Please book this night photo tour 2-3 weeks ahead of time.
+**To all new students:** Please book this night photo tour 2-3 weeks ahead of time.
