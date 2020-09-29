@@ -16,6 +16,10 @@ Lighting, Exposure, Composition
 ### Triangle of Exposure
 Aperture, shutter speed, and ISO make up the three sides of the exposure triangle. They work together to produce a photo that is properly exposed. If one variable changes, at least one of the others must also change to maintain the correct exposure.
 
+### Aperture
+
+![Aperture](https://californiaphotosafaris.com/wp-content/uploads/2017/12/aperture-and-exposure-digital-photography.jpg)
+
 ## Creative composition tips in photography
 
 Composition is one of the most important aspects of photography.  Correct composition can transform an ordinary scene into a great picture.  Unlike certain elements of photography such as lighting, no technical knowledge is required for successful composition.  Finally, anyone with a camera can take images using this technique.  Regardless of price, make or model, anyone with a camera or mobile phone can go and try today.
