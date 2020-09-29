@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Photo Tips
-subtitle: Why you'd want to go on a date with me
+title: Useful Photo Tips
+subtitle: Creative & technical tips for beginners
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Your camera is just a tool.  You create a vision with your eye and your brain. Let me help you discover your artistic potential 
+in becoming an amazing photographic artist. Or just have fun with your new photography hobby.  All models and brands
+of  digital cameras are welcome to my photo tours & workshops
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Creative composition tips in photography
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Rule of Thurds
+In photography, the rule of thirds is a type of composition in which an image is divided evenly into thirds, both horizontally and vertically, and the subject of the image is placed at the intersection of those dividing lines, or along one of the lines itself.
