@@ -1,81 +1,43 @@
 ---
 layout: post
 title: Downtown LA Night Photo Tour
-subtitle: Each post also has a subtitle
+subtitle: Tour Dates : Oct. 3 - Nov.3,2020
 cover-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 thumbnail-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 share-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [santa monica,night photography]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+We will be taking night photos and check out the cool areas in downtown Los Angeles. We will go through the basics of the technical aspect of photography ( exposure ) and then the creative techniques ( composition ) as we walk all over downtown LA documenting the vibrant nightlife on the streets and inside the buildings.
 
-**Here is some bold text**
+**Tour Prices**
+The 4-hour walking tour is $ 175 per person, $ 300 for 2 people. Due to Covid-19 restrictions, this walking photo tour is limited to 2 people. Social distancing will be practice at all times.
 
-## Here is a secondary heading
+## Topics I will cover in the night photo workshop:
 
-Here's a useless table:
+Triangle of Exposure Basics – Relationship between film speed, shutter speed, and aperture.
+Camera operation basics: Using different exposure modes ( auto settings and manual exposure.
+Exposure bracketing, White Balance Settings etc,
+Shooting HIGH ISO ( up to 6400 ) handheld versus shooting low ISO ( 100 ) with a tripod.
+Creative composition using rule of thirds, frame within a frame, leading lines.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Subject Matter : Travel, People, Architecture, Documentary
+![Los angeles 110 fwy night](https://losangelesphotosafaris.files.wordpress.com/2020/07/e4962-downtown-la-110-fwy-blue-night-pic-web-1.jpg)
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
+Your photo assignment for tonight’s shooting :
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+We will be shooting for a travel magazine in LA that needs photos for an article showing foreign travellers the many fun attractions in Los Angeles they can explore on a budget. These are known as editorial photos. There will be critiques of your photos throughout the night.
 
-Here's a code chunk:
+Your photo instructors : Elle Gamboa ( night photography specialist ) w
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
 
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
+### Register for a photo workshop
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** Please book this night photo tour 2-3 weeks ahead of time.
