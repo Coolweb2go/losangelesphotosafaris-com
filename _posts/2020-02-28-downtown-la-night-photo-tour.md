@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Downtown LA Night Photo Tour
-subtitle: Tour Dates : Oct. 3 - Nov.3,2020
+subtitle: Attend this night photography workshop
 cover-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 thumbnail-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 share-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [santa monica,night photography]
 comments: true
 ---
@@ -26,8 +25,6 @@ Creative composition using rule of thirds, frame within a frame, leading lines.
 
 Subject Matter : Travel, People, Architecture, Documentary
 ![Los angeles 110 fwy night](https://losangelesphotosafaris.files.wordpress.com/2020/07/e4962-downtown-la-110-fwy-blue-night-pic-web-1.jpg)
-
-
 
 
 Your photo assignment for tonight’s shooting :
