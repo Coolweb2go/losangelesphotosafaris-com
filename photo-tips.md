@@ -27,7 +27,16 @@ Composition is one of the most important aspects of photography.  Correct compos
 ### Rule of Thirds
 In photography, the rule of thirds is a type of composition in which an image is divided evenly into thirds, both horizontally and vertically, and the subject of the image is placed at the intersection of those dividing lines, or along one of the lines itself.
 
+![Rule of thirds](https://www.clickinmoms.com/blog/wp-content/uploads/2016/03/the-rule-of-thirds-on-the-beach-by-Gina-Yeo.jpg)
+Photo by Gina Yeo
+
 ### Frame within a frame
 Using a found frame within a frame is a great photo composition tool for filling space, adding depth to an image, directing the viewers attention, and minimizing distractions in the photo or non-essential elements.
 
 ### Leading Lines
+![Leading Lines](https://www.lightandmatter.org/wp-content/uploads/2016/04/leading-lines-bad-1400x844.jpg)
+Photo credit : https://www.lightandmatter.org/
+
+## Register for a Photo Tour
+
+https://californiaphotosafaris.com/register-for-a-class/
