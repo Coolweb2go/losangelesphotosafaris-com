@@ -6,8 +6,8 @@ cover-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infr
 thumbnail-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 share-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 gh-repo: daattali/beautiful-jekyll
-tags: [santa monica,night photography]
-comments: true
+tags: [santa monica,night photography, los angeles]
+comments: false
 ---
 
 We will be taking night photos and check out the cool areas in downtown Los Angeles. We will go through the basics of the technical aspect of photography ( exposure ) and then the creative techniques ( composition ) as we walk all over downtown LA documenting the vibrant nightlife on the streets and inside the buildings.
