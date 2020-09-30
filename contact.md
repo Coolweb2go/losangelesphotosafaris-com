@@ -4,17 +4,18 @@ title: Contact
 subtitle: Register for my photo tours
 ---
 
-Subject Matter: Please describe your photo skill level and what camera equipment you will bring with you.
+### Subject Matter: 
+Please describe your photo skill level and what camera equipment you will bring with you.
 
-Which photo tour or workshop you want to attend ?
+### Which photo tour or workshop you want to attend ?
 
-Camera Basics
-Composition Workshop
-Photoshop/Lightroom Basics
-Street Photography
-Night Photography
-Portraiture on location
-Others
+1. Camera Basics
+2. Composition Workshop
+3. Photoshop/Lightroom Basics
+4. Street Photography
+5. Night Photography
+6. Portraiture on location
+7. Others
 
 [Register for my photo tours in Los Angeles ](https://usaphotosafaris.com/contact-us/)
 
