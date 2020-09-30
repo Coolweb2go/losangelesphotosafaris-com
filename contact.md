@@ -1,16 +1,21 @@
 ---
 layout: page
 title: Contact
-subtitle: Why you'd want to go on a date with me
+subtitle: Register for my photo tours
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Subject Matter: Please describe your photo skill level and what camera equipment you will bring with you.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Which photo tour or workshop you want to attend ?
 
-What else do you need?
+Camera Basics
+Composition Workshop
+Photoshop/Lightroom Basics
+Street Photography
+Night Photography
+Portraiture on location
+Others
 
-### My story
+[Register for my photo tours in Los Angeles ](https://usaphotosafaris.com/contact-us/)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![Camera Selection](https://usaphotosafaris.com/wp-content/uploads/2020/01/Canon-VS-Sony-VS-Nikon-camera-selection.jpg)
