@@ -6,76 +6,34 @@ thumbnail-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 share-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [los angeles,instagram photo tour]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+## Looking to impress your friends with the best shots of Los Angeles?
 
-**Here is some bold text**
+Let me show you the top locations in the city.This is perfect during layover and to get a general impression of the city of Angels. In my fun three hour Instagram/Smartphone walking photo tour, you will learn to become a  more creative photographer as you will learnboth the technical & creative aspect of photography. You will elevate your photography & selfie pics to an artistic levels. We will be shooting all sorts of subject matter: street photography, architecture, people, travel documentary. We will be using photo apps like Snapseed and VSCO. You will be creating amazing photo art with your smartphone. Plus you get to learn more about the history of LA.
 
-## Here is a secondary heading
+**Available dates:**  October 3 - December 5, 2020
 
-Here's a useless table:
+**Pricing **  
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+starts at $ 175 per person for 3 hours.
 
+**Requirements**
 
-How about a yummy crepe?
+IPhone, latest Android smartphones, good walking shoes What’s included : bottled water, snacks, photography tip sheet, hands on photo instruction for the the night photography walking tour everyone gets one free taco from my favorite food truck on Pershing Square
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+What you will learn : photography basics ( exposure & composition ), historical facts about LA, best foodie locations
+Photography topics : travel. architecture, people, urbanscapes, landscapes, nature closeup, abstract What’s not included : transportation, lunch
+ ?
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
+### Note to new photo student
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Warning:** 
+Note: This is a 4-hour walking photo tour of downtown Los Angeles
+How to book this walking photo tour.
 
-### Error
+Questions: Please send email to photosafari@inbox.com
 
-{: .box-error}
-**Error:** This is an error box.
