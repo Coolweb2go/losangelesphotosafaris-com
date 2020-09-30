@@ -4,11 +4,12 @@ title: Los Angeles Instagram/Smart Phone Walking Tour
 cover-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 thumbnail-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 share-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
-subtitle: Each post also has a subtitle
+subtitle: Starts Oct.5, 2020
 gh-repo: daattali/beautiful-jekyll
 tags: [los angeles,instagram photo tour]
 comments: true
 ---
+![Los Angeles Instagram Tour](https://losangelesphotosafaris.files.wordpress.com/2020/07/bbdf1-disney-concert-hall-los-angeles-bw-web.jpg)
 
 ## Looking to impress your friends with the best shots of Los Angeles?
 
