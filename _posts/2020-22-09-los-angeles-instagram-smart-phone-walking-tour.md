@@ -27,12 +27,10 @@ IPhone, latest Android smartphones, good walking shoes What’s included : bottl
 
 What you will learn : photography basics ( exposure & composition ), historical facts about LA, best foodie locations
 Photography topics : travel. architecture, people, urbanscapes, landscapes, nature closeup, abstract What’s not included : transportation, lunch
- ?
-
-### Note to new photo student
+ 
 
 {: .box-warning}
-**Warning:** 
+**Note to new photo student:** 
 Note: This is a 4-hour walking photo tour of downtown Los Angeles
 How to book this walking photo tour.
 
