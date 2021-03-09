@@ -48,10 +48,10 @@ round-avatar: false
 social-network-links:
 #  email: "photosafari@inbox.com"
   facebook: losangelesphotosafaris
-#  github: daattali
-#  twitter: daattali
+#  github: 
+#  twitter:
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: 
 #  xing: yourname
   pinterest: deanat78
 #  snapchat: deanat78
@@ -87,7 +87,7 @@ share-links-active:
 url-pretty: "losangelesphotosafaris.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 60
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "los angeles photo tours, los angeles california, santa monica tour, venice beach tour, hollywood tour"
