@@ -15,6 +15,7 @@ In addition to dozens of photos, you will receive a wealth of information, insid
 All guests will receive professional quality photos sent via photo gallery and zip-file within 48 hours after the tour.At least 75 photos for the 2 hour tour or 125 minimum for the 3 hour tour.
 
 **Elle Gamboa/ Photo Tour Guide**
+Need help ? Please send me an email to photosafari@inbox.com
 
 #### Search a tour now
 
