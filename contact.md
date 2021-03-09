@@ -17,6 +17,6 @@ Please describe your photo skill level and what camera equipment you will bring 
 6. Portraiture on location
 7. Others
 
-[Register for my photo tours in Los Angeles ](https://usaphotosafaris.com/contact-us/)
+Register for my photo tours in Los Angeles . My email is photosafari@inbox.com
 
 ![Camera Selection](https://usaphotosafaris.com/wp-content/uploads/2020/01/Canon-VS-Sony-VS-Nikon-camera-selection.jpg)
