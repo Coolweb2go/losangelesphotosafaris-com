@@ -13,7 +13,7 @@ comments: false
 We will be taking night photos and check out the cool areas in downtown Los Angeles. We will go through the basics of the technical aspect of photography ( exposure ) and then the creative techniques ( composition ) as we walk all over downtown LA documenting the vibrant nightlife on the streets and inside the buildings.
 
 
-**Tour Dates **
+**Available Dates **
 
 July 15 - Aug 30, 2021
 
