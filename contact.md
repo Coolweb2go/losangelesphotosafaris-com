@@ -4,7 +4,7 @@ title: Contact
 subtitle: Register for my photo tours
 ---
 
-### Subject Matter: 
+### Subject Matter
 Please describe your photo skill level and what camera equipment you will bring with you.
 
 ### Which photo tour or workshop you want to attend ?
