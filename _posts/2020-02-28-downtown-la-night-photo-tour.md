@@ -12,8 +12,13 @@ comments: false
 
 We will be taking night photos and check out the cool areas in downtown Los Angeles. We will go through the basics of the technical aspect of photography ( exposure ) and then the creative techniques ( composition ) as we walk all over downtown LA documenting the vibrant nightlife on the streets and inside the buildings.
 
+
+**Tour Dates **
+
+July 15 - Aug 30, 2021
+
 **Tour Prices**
-The 4-hour walking tour is $ 175 per person, $ 300 for 2 people. Due to Covid-19 restrictions, this walking photo tour is limited to 2 people. Social distancing will be practice at all times.
+The 4-hour walking tour is $ 175 per person, $ 300 for 2 people. 
 
 ## Topics I will cover in the night photo workshop:
 
