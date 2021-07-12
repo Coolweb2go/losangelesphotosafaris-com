@@ -5,7 +5,9 @@ subtitle: Walking/driving photo tours with a pro photographer/LA Tour Guide
 ---
 
 <img src="https://losangelesphotosafaris.files.wordpress.com/2020/07/1fe87-disney-concert-hall-los-angeles-color-web.jpg" alt="Los Angeles Photo Tours">
-***
+
+*** I am now available for live photo safari tours anywhere in LA
+
 Private walking tours with a personal photographer/Los Angeles Guide to capture you– together –in dozens of professional quality photos, 
 as you explore the wonderful and historic attractions & neighborhoods of the great city of Los Angeles. I offer a variety of tour options. 
 Depending on your tour, sites and attractions covered may include some of the following locations: Santa Monica Pier, Venice Beach boardwalk,  Hollywood Walk of Fame, Griffith Park, downtown LA , Beverly Hills, Grand Central Market , Hollywood Sign, to name a few.
@@ -17,5 +19,9 @@ All guests will receive professional quality photos sent via photo gallery and z
 **Elle Gamboa/ Photo Tour Guide**
 Need help ? Please send me an email to photosafari@inbox.com
 
-#### Search a tour now
+#### Search a tour now 
+
+[Photo Tour Schedule](https://losangelesphotosafaris.com/find-a-tour/)
+
+
 
