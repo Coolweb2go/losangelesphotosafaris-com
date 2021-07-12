@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-
 share-img: /assets/img/2c8cf-santa-monica-pier-night-photo-pentax-bw-photos-infrared-web.jpg
 gh-repo: daattali/beautiful-jekyll
 tags: [santa monica,night photography, los angeles]
-comments: false
+comments: true
 ---
 
 We will be taking night photos and check out the cool areas in downtown Los Angeles. We will go through the basics of the technical aspect of photography ( exposure ) and then the creative techniques ( composition ) as we walk all over downtown LA documenting the vibrant nightlife on the streets and inside the buildings.
@@ -15,10 +15,10 @@ We will be taking night photos and check out the cool areas in downtown Los Ange
 
 **Available Dates **
 
-July 15 - Aug 30, 2021
+July 15 - Sept.30, 2021
 
 **Tour Prices**
-The 4-hour walking tour is $ 175 per person, $ 300 for 2 people. 
+The 4-hour walking tour is $ 175 per person, $ 300 for 2 people. We start at 6 pm
 
 ## Topics I will cover in the night photo workshop:
 
