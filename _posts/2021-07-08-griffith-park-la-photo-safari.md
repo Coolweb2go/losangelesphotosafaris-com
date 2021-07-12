@@ -1,3 +1,12 @@
+---
+layout: post
+title: Griffith Park Morning Walking Photo Safari
+subtitle: Great for beginners
+gh-repo: daattali/beautiful-jekyll
+tags: [griffith park,walking photo tour, los angeles]
+comments: true
+---
+
 ## Griffith Park Morning Walking Photo Safari for Beginners or Advanced Shutterbugs
 
 Experience a fun early morning photo walk with a local tour guide Los Angeles travel photographer
