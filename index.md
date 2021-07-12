@@ -14,7 +14,11 @@ Depending on your tour, sites and attractions covered may include some of the fo
 
 In addition to dozens of photos, you will receive a wealth of information, insider tips about off the beaten path Los Angeles, suggested entertainment, dining & shopping options and how to navigate the Los Angeles Metro subway, saving you valuable time and money during your holiday.
 
-All guests will receive professional quality photos sent via photo gallery and zip-file within 48 hours after the tour.At least 75 photos for the 2 hour tour or 125 minimum for the 3 hour tour.
+All guests will receive professional quality photos sent via photo gallery and zip-file within 48 hours after the tour.At least 75 photos for the 2 hour tour or 125 minimum for the 3-4 hourtour of Los Angeles.
+
+<img src="https://californiaphotosafaris.com/wp-content/uploads/2021/05/photographing-mission-district-san-franicisco.jpg" alt="Los Angeles Photo Tours">
+
+
 
 **Elle Gamboa/ Photo Tour Guide**
 Need help ? Please send me an email to photosafari@inbox.com
