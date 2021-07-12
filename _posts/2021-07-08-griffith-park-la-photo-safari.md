@@ -1,4 +1,4 @@
-## Griffith Park Sunset Photo Safari for beginners or advanced shutterbugs
+## Griffith Park Morning Walking Photo Safari for Beginners or Advanced Shutterbugs
 
 Experience a fun early morning photo walk with a local tour guide Los Angeles travel photographer
 This is a four-hour morning tour, available from 7am till 11pm 
@@ -23,5 +23,5 @@ July 20 - Sept.20,2021
 
 ### Optional stuff:
 If you are hungry and game for the best tacos in Los Angeles.
-then I can take you to this place
+then I can take you to this place  [Best Fish Tacos in Ensenada](https://www.yelp.com/biz/best-fish-taco-in-ensenada-los-angeles)
 
