@@ -21,5 +21,6 @@ Register for my photo tours in Los Angeles. You will be directed to a new page.
 
 ### [Contact form here](https://sandiegophotosafari.net/register/)
 
+[![Let's have a fun photo shoot](assets/images/posts/2020/missiondistrict.jpg)](https://californiaphotosafaris.com/wp-content/uploads/2021/05/photographing-mission-district-san-franicisco.jpg)
 
 [Let's have a fun photo shoot](https://californiaphotosafaris.com/wp-content/uploads/2021/05/photographing-mission-district-san-franicisco.jpg)
