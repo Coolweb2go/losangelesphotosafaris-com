@@ -1,5 +1,5 @@
 ---
 layout: home
 title: Los Angeles Photo Safaris
-subtitle: Got a questions about our photo tours ? Send us email to photosafari@inbox.com
+subtitle: Need to book a photo tour in Los Angeles ? Give me a call at 213 290-3180. Send us email to photosafari@inbox.com
 ---
