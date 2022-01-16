@@ -2,7 +2,6 @@
 layout: post
 title: Griffith Park Morning Walking Photo Safari
 subtitle: Great for beginners
-gh-repo: daattali/beautiful-jekyll
 tags: [griffith park,walking photo tour, los angeles]
 comments: true
 ---
@@ -21,7 +20,7 @@ If you are an aspiring photographer with the basic skills who want to move to th
 Are you a tourist who want get better photography skills
 
 ### Dates available : 
-July 20 - Sept.20,2021
+January 22 - March 22,2022
 
 ## What you will learn:
 * Digital camera basics - Bring a Canon or Nikon DSLR or any brand
