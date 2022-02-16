@@ -4,7 +4,7 @@ title: Los Angeles Instagram/Smart Phone Walking Tour
 cover-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 thumbnail-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 share-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
-subtitle: Starts Feb. 22, 2022
+subtitle: Starts Feb. 11, 2022
 tags: [los angeles, venice beach, instagram photo tour]
 comments: true
 ---
