@@ -14,7 +14,7 @@ comments: true
 
 Let me show you the top shooting locations in the city.This is the perfect experience during layover to get a general impression of the city of Angels. In my fun three hour Instagram/Smartphone walking photo tour, you will learn to become a  more creative photographer as you will learn both the technical & creative aspect of photography. You will elevate your photography & selfie pics to artistic levels. We will be shooting all sorts of subject matter: street photography, architecture, people, travel documentary. We will be using photo apps like Snapseed and VSCO. You will be creating amazing photo art with your smartphone. Plus you get to learn more about the history of Los Angeles/
 
-**Available dates:** January 20 - March 20, 20222
+**Available dates:** Feb. - April 20,2022
 
 **Pricing **  
 
