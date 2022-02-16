@@ -15,8 +15,8 @@ comments: true
 Let me show you the top shooting locations in the city.This is the perfect experience during layover to get a general impression of the city of Angels. In my fun three hour Instagram/Smartphone walking photo tour, you will learn to become a  more creative photographer as you will learn both the technical & creative aspect of photography. You will elevate your photography & selfie pics to artistic levels. We will be shooting all sorts of subject matter: street photography, architecture, people, travel documentary. We will be using photo apps like Snapseed and VSCO. You will be creating amazing photo art with your smartphone. Plus you get to learn more about the history of Los Angeles.
 
 ## You can pick from three different shooting location ##
-Option 1 - Santa Monica/ Venice Beach
-Option 2 - Hollywood, Griffith Park Observatory
+Option 1 - Santa Monica/ Venice Beach<br>
+Option 2 - Hollywood, Griffith Park Observatory<br>
 Option 3 - LACMA Museum, La Bea Tar Pits, Farmers Market
 Please note: Due to the limited time we have of 3 hours, we can only go to so many places.
 
