@@ -19,25 +19,39 @@ subtitle: Los Angeles Sightseeing Tours & photo safaris with a pro photographer/
 
 ### Pricing for walking tours
 $ 175 ( 1-2 persons ), $ 300 (3-4 people ). Maximum of 4 people as this is a private tour
-### Available Dates : 
+### Available Dates : Feb. 19 - May 19,2022
 Weekday afternoons, Weekends morning or afternoon. Allow 1-2 week scheduling of your LA Tour. It's possible to schedule
 a tour withina 48 hour notice. You can text me 619 694-7522 or send me an email to mydigitalpicasso@yahoo.com. Ask for Elle.
-**[Send me an email on this page}https://ellegamboa.com/#contact  
+[Send me an email on this page}{https://ellegamboa.com/#contact)  
 
 
-
--
 ---
 <img src="https://americabyrailandbus.files.wordpress.com/2022/02/lacma-musuem-light-sculpture-los-angeles.jpg" alt="LA County Museum Light Sculpture">
+Walking photo tour with Ben & Derrick ( French guy ) at LA County Museum of Art in the Fairfax Distrcit
 
-## Portrait photo shoot sightseeing tours for couples/groups
+## Portrait photo shoot sightseeing tours for singles or couples
+
+<img src="https://americabyrailandbus.files.wordpress.com/2022/02/kendall-black-white-portrait-jean-white-shirt-better-2.jpg" alt="LA Portrait Shoot">
 
 Memories fade, but a photo lasts forever. Make the most of your Los Angeles travel  experience by hiring your 
 very own vacation photographer!Forget taking selfies or bothering strangers to snap your picture. 
-Let a professional, local photographer help you create everlasting memories. Your high-resolution 
+Let a professional, local portrait/fashion photographer help you create everlasting memories. Your high-resolution 
 photos will be professionally edited and made available to you within 5 days, yours to keep forever.
 
-## Private walking tours with a personal photographer/Los Angeles Guide for singles, couples, & small groups 
+## How it Works
+
+Choose a package - Select the package that fits your occasion and make your booking. 
+Answer a few questions on the Order Form, and your photographer will take it from there!
+Meet your photographer - You’ll be contacted at least 7 days in advance with your photographer’s 
+contact information and detailed directions to the meeting location. On the day of your reservation, 
+you’ll meet your photographer, have a chat and get to know each other before beginning the photo tour.
+Receive your photo gallery link - Within 5 working days you will receive a link to a private online gallery 
+containing your beautifully edited photos - ready for download!
+
+## Portrait Shoot Pricing ; $ 175 for 2 hours. 30 digital photos, 2 outfits, 2 looks
+## Portrait Shooting Dates & Locations: 
+Any late afternoon weekdays or weekends. Lighting is key to getting great photos. Locations: santa Monica, Venice Beach, Downtown LA
+
 as we explore the wonderful and historic attractions & neighborhoods of the great city of Los Angeles. I also combine my photo walks with a foodie tour of the best affordable dining in LA ( Thai Town, Koreatown, Little Bangladesh, etc. ) I offer a variety of tour options. 
 Depending on your tour, sites and attractions covered may include some of the following locations: Santa Monica Pier, Venice Beach boardwalk,  Hollywood Walk of Fame, Griffith Park, downtown LA , Beverly Hills, Grand Central Market , Hollywood Sign, to name a few.
 
