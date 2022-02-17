@@ -8,13 +8,24 @@ subtitle: Los Angeles Sightseeing Tours & photo safaris with a pro photographer/
 
 *** Sightseeing photo tours are now available for booking anytime ***
 
-https://americabyrailandbus.files.wordpress.com/2022/02/venice-beach-skateboard-park-web.jpg
-Warning: Los Angeles is a giant metropolis and plan your vacation trip carefully so you can catch in all the sights in a few days
+<img src="https://americabyrailandbus.files.wordpress.com/2022/02/venice-beach-skateboard-park-web.jpg" alt="Venice Beach Skateboarding">
+**Warning: Los Angeles is a giant metropolis and plan your vacation trip carefully so you can catch in all the sights in a few days**
 
 ## Select from my post popular 4-hour walking sightseeing & photo tour of Los Angeles
+
 - Santa Monica Pier & Beach, Venice Beach Boardwalk, Venice Canals - 4 hour tour
 - Hollywood Walk of Fame, Griffith Park , Best LA Fish tacos - 4 hour tour
 - LACMA Museum, La Brea Tar Pits, Original Farmers Market - 4 hour photo/foodie tour
+
+### Pricing for walking tours
+$ 175 ( 1-2 persons ), $ 300 (3-4 people ). Maximum of 4 people as this is a private tour
+### Available Dates : 
+Weekday afternoons, Weekends morning or afternoon. Allow 1-2 week scheduling of your LA Tour. It's possible to schedule
+a tour withina 48 hour notice. You can text me 619 694-7522 or send me an email to mydigitalpicasso@yahoo.com. Ask for Elle.
+**[Send me an email on this page}https://ellegamboa.com/#contact  
+
+
+
 -
 ---
 <img src="https://americabyrailandbus.files.wordpress.com/2022/02/lacma-musuem-light-sculpture-los-angeles.jpg" alt="LA County Museum Light Sculpture">
