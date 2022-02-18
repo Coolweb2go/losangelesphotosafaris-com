@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Los Angeles Photo Tours
+full-width: true
 subtitle: Los Angeles Sightseeing Tours & photo safaris with a pro photographer/LA Tour Guide 
 ---
 
