@@ -15,7 +15,9 @@ We will be taking night photos and check out the cool areas in downtown Los Ange
 
 **Available Dates **
 
-July 15 - Sept.30, 2021
+June 4-Sept.4, 2023
+Shooting Locations : 7th Street Metro Area, Pershing Square, Wilshire Overpass ( 110 Freeway )
+What to bring: Extra camera batteries & memory card, sturdy portable tripod, & light sweater or windbreaker
 
 **Tour Prices**
 The 4-hour walking tour is $ 175 per person, $ 300 for 2 people. We start at 6 pm
@@ -31,13 +33,7 @@ Creative composition using rule of thirds, frame within a frame, leading lines.
 Subject Matter : Travel, People, Architecture, Documentary
 ![Los angeles 110 fwy night](https://losangelesphotosafaris.files.wordpress.com/2020/07/e4962-downtown-la-110-fwy-blue-night-pic-web-1.jpg)
 
-
-Your photo assignment for tonight’s shooting :
-
-We will be shooting for a travel magazine in LA that needs photos for an article showing foreign travellers the many fun attractions in Los Angeles they can explore on a budget. These are known as editorial photos. There will be critiques of your photos throughout the night.
-
 Your photo instructors : Elle Gamboa ( night photography specialist ) w
-
 
 ### Register for a photo workshop
 Send me an email to photosafari@inbox.com
