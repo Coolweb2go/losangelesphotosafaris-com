@@ -25,6 +25,7 @@ Depending on your tour, sites and attractions covered may include some of the fo
 
 ### Pricing for walking tours
 $ 175 ( 1-2 persons ), $ 300 (3-4 people ). Maximum of 4 people as this is a private tour
+
 #### Available Dates : June 4 - Sept. 5,2022
 Weekday afternoons, Weekends morning or afternoon. Allow 1-2 week scheduling of your LA Tour. It's possible to schedule
 a tour withina 48 hour notice. You can text me 619 694-7522 or send me an email to mydigitalpicasso@yahoo.com. Ask for Elle.
@@ -54,10 +55,11 @@ you’ll meet your photographer, have a chat and get to know each other before b
 Receive your photo gallery link - Within 5 working days you will receive a link to a private online gallery 
 containing your beautifully edited photos - ready for download!
 
-## Portrait Shoot Pricing ; $ 175 for 2 hours. 30 digital photos, 2 outfits, 2 looks
-## Portrait Shooting Dates & Locations: 
-Any late afternoon weekdays or weekends. Lighting is key to getting great photos. Locations: santa Monica, Venice Beach, Downtown LA
+Portrait Shoot Pricing ; $ 175 for 2 hours. 30 digital photos, 2 outfits, 2 looks
 
+**Portrait Shooting Dates & Locations:** 
+
+Any late afternoon weekdays or weekends. Lighting is key to getting great photos. Locations: santa Monica, Venice Beach, Downtown LA
 
 <img src="https://americabyrailandbus.files.wordpress.com/2022/02/la-brea-tar-pits-los-angeles-photo-safaris.jpg" alt="La Brea Tar Pits">
 
