@@ -4,7 +4,7 @@ title: Los Angeles Instagram/Smart Phone Walking Tour
 cover-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 thumbnail-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 share-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
-subtitle: Starts Feb. 11, 2022
+subtitle: Starts June 4, 2022
 tags: [los angeles, venice beach, instagram photo tour]
 comments: true
 ---
@@ -20,11 +20,11 @@ Option 2 - Hollywood, Griffith Park Observatory<br>
 Option 3 - LACMA Museum, La Bea Tar Pits, Farmers Market
 Please note: Due to the limited time we have of 3 hours, we can only go to so many places.
 
-**Available dates:** Feb.20 - April 20,2022
+**Available dates:** June 4- Aug.24,2022
 
 **Pricing **  
 
-starts at $ 175 per person for 3 hours.
+starts at $ 175 per person for a 3 hour walking tour
 
 **Requirements**
 
