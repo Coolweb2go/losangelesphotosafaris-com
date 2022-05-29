@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Griffith Park Morning Walking Photo Safari
+title: Griffith Park 3-hour Walking Photo Safari
 subtitle: Great for beginners
 tags: [griffith park,walking photo tour, los angeles]
 comments: true
 ---
 
-## Griffith Park Morning Walking Photo Safari for Beginners or Advanced Shutterbugs
+## Griffith Park Waling Photo Safari for Beginners or Advanced Shutterbugs
 
-Experience a fun early morning photo walk with a local tour guide Los Angeles travel photographer
-This is a four-hour morning tour, available from 7am till 11pm 
+Experience a late afternoon 3- hour photo walk with a local tour guide Los Angeles travel photographer
 due to the increased human and car traffic around popular tourist attractions in L.A. during the day
 
 The cost of this tour is : $ 175 per person
@@ -20,7 +19,7 @@ If you are an aspiring photographer with the basic skills who want to move to th
 Are you a tourist who want get better photography skills
 
 ### Dates available : 
-January 22 - March 22,2022
+June 4 - Sept.4,2022
 
 ## What you will learn:
 * Digital camera basics - Bring a Canon or Nikon DSLR or any brand
