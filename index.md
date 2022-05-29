@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Los Angeles Photo Tours
+title: Los Angeles Sightseeing & Photo Tours
 full-width: true
-subtitle: Los Angeles Sightseeing Tours & photo safaris with a pro photographer/LA Tour Guide 
+subtitle: Enjoy a fun walking tour of LA with a pro photographer/LA Tour Guide 
 ---
 
 <img src="https://losangelesphotosafaris.files.wordpress.com/2020/07/1fe87-disney-concert-hall-los-angeles-color-web.jpg" alt="Los Angeles Photo Tours">
@@ -25,7 +25,7 @@ Depending on your tour, sites and attractions covered may include some of the fo
 
 ### Pricing for walking tours
 $ 175 ( 1-2 persons ), $ 300 (3-4 people ). Maximum of 4 people as this is a private tour
-### Available Dates : Feb. 19 - May 19,2022
+#### Available Dates : June 4 - Sept. 5,2022
 Weekday afternoons, Weekends morning or afternoon. Allow 1-2 week scheduling of your LA Tour. It's possible to schedule
 a tour withina 48 hour notice. You can text me 619 694-7522 or send me an email to mydigitalpicasso@yahoo.com. Ask for Elle.
 [Send me an email on this page}{https://ellegamboa.com/#contact)  
