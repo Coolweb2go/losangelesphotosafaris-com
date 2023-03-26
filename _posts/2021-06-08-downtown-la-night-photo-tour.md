@@ -15,14 +15,14 @@ We will be taking night photos and check out the cool areas in downtown Los Ange
 
 **Available Dates **
 
-June 4-Sept.4, 2023
+April 3- June 28, 2023 . My appointment only.
 Shooting Locations : 7th Street Metro Area, Pershing Square, Wilshire Overpass ( 110 Freeway )
 What to bring: Extra camera batteries & memory card, sturdy portable tripod, & light sweater or windbreaker
 
 **Tour Prices**
-The 4-hour walking tour is $ 175 per person, $ 300 for 2 people. We start at 6 pm
+The 4-hour walking tour is $ 200 per person, $ 300 for 2 people. We start at 5 pm
 
-## Topics I will cover in the night photo workshop:
+## Topics I will cover in the Sunset/ Night photo workshop:
 
 Triangle of Exposure Basics – Relationship between film speed, shutter speed, and aperture.
 Camera operation basics: Using different exposure modes ( auto settings and manual exposure.
@@ -36,7 +36,7 @@ Subject Matter : Travel, People, Architecture, Documentary
 Your photo instructors : Elle Gamboa ( night photography specialist ) w
 
 ### Register for a photo workshop
-Send me an email to photosafari@inbox.com
+Send me an email to ellesnapsvideo@gmail.com
 
 {: .box-error}
 **To all new students:** Please book this night photo tour 2-3 weeks ahead of time.
