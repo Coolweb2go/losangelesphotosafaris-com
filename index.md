@@ -2,7 +2,7 @@
 layout: page
 title: Los Angeles Sightseeing & Photo Tours
 full-width: true
-subtitle: Enjoy a fun walking tour of LA with a pro photographer/LA Tour Guide 
+subtitle: Enjoy a fun walking tour of LA with a travel photographer/LA Tour Guide 
 ---
 
 <img src="https://losangelesphotosafaris.files.wordpress.com/2020/07/1fe87-disney-concert-hall-los-angeles-color-web.jpg" alt="Los Angeles Photo Tours">
@@ -30,8 +30,7 @@ $ 250 ( 1-2 persons ), $ 400 (3-4 people ).
 #### Available Dates : April 1 - June 5,2023 - Available by appointment only
 
 Weekday afternoons, Weekends morning or afternoon. Allow 1-2 week scheduling of your LA Tour. It's possible to schedule
-a tour withina 48 hour notice. You can text me 619 694-7522 or send me an email me at ellesnapsvideo@gmail.com . Ask for Elle.
-[Send me an email on this page}{https://ellegamboa.com/#contact)  
+a tour with 72 hours notice. You can text me 619 694-7522 or send me an email me at ellesnapsvideo@gmail.com . Ask for Elle.
 
 
 ---
