@@ -39,5 +39,5 @@ Photo credit : [Light & Matter]( https://www.lightandmatter.org/)
 
 ## Register for a Photo Tour
 
-[Follow the link](https://californiaphotosafaris.com/register-for-a-class/)
+You can send me email to : ellesnapsvideo@gmail.com
 
