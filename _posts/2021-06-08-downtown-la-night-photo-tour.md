@@ -15,7 +15,7 @@ We will be taking night photos and check out the cool areas in downtown Los Ange
 
 **Available Dates **
 
-April 3- June 28, 2023 . My appointment only.
+March 28 - June 28, 2025 . My appointment only.
 Shooting Locations : 7th Street Metro Area, Pershing Square, Wilshire Overpass ( 110 Freeway )
 What to bring: Extra camera batteries & memory card, sturdy portable tripod, & light sweater or windbreaker
 
