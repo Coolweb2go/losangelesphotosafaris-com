@@ -13,7 +13,7 @@ Visit LA and explore the historic Venice Canals and Venice Boardwalk with an LA 
 ***
 <img src="https://losangelesphotosafaris.files.wordpress.com/2020/07/86dfe-venice-beach-california-canals-photo-by-elle.jpg" alt="Venice Beach California Photo Tours">
 
-<b>Dates available : March 28 - June 28, 2023 </b>
+<b>Dates available : March 28 - June 28,2025 </b>
 
 Cost of the 4-hour Walking Photo Tour : $ 200 per person. We start at 1 pm & meet at Venice Sign.
 What to bring: Any DSLR or mirrorless camera like Canon, Nikon, and Sony. Bring one prime lens ( 50mm is desirable ) and a short zoom or long zoom lens.
