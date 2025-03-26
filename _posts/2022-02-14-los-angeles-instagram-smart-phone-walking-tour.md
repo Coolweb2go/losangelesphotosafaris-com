@@ -4,7 +4,7 @@ title: Los Angeles Instagram/Smart Phone Walking Tour
 cover-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 thumbnail-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
 share-img: /assets/img/1fe87-disney-concert-hall-los-angeles-color-web.jpg
-subtitle: Starts April 1, 2023
+subtitle: Starts March 28,2025
 tags: [los angeles, venice beach, instagram photo tour,photo tours, santa monica, griffith park, walking tours, photography, smartphone workshops, downtown Los Angeles]
 comments: true
 ---
