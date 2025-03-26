@@ -8,7 +8,7 @@ subtitle: Starts March 28,2025
 tags: [los angeles, venice beach, instagram photo tour,photo tours, santa monica, griffith park, walking tours, photography, smartphone workshops, downtown Los Angeles]
 comments: true
 ---
-![Los Angeles Instagram Tour](https://photos.fife.usercontent.google.com/pw/AP1GczMyhNcBb9FFYh-zngfJT-8wutdnPNXtiAmxqd6nBO6-xZ5ptflMwFo9Gg=w2048-h1536-s-no?authuser=0))
+![Los Angeles Instagram Tour](https://photos.fife.usercontent.google.com/pw/AP1GczMyhNcBb9FFYh-zngfJT-8wutdnPNXtiAmxqd6nBO6-xZ5ptflMwFo9Gg=w2048-h1536-s-no?authuser=0)
 
 ## Looking for an amazing visual experience of Los Angeles? Join me for a fun visual tour of the City of Angels
 
