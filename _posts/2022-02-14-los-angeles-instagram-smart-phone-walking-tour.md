@@ -20,7 +20,7 @@ Option 2 - Hollywood, Griffith Park Observatory<br>
 Option 3 - LACMA Museum, La Bea Tar Pits, Farmers Market
 Please note: Due to the limited time we have of 4 hours, we can only go to so many places.
 
-**Available dates:** April 1- June 30,2023, By appointment only
+**Available dates:** March 28 - June 30,2025, By appointment only
 
 **Pricing **  
 
