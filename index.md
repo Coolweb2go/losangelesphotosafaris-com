@@ -27,7 +27,7 @@ Depending on your tour, sites and attractions covered may include some of the fo
 ### Pricing for walking tours
 $ 250 ( 1-2 persons ), $ 400 (3-4 people ).
 
-#### Available Dates : April 1 - June 5,2023 - Available by appointment only
+#### Available Dates : May 26 - June 26,2025 - Available by appointment only
 
 Weekday afternoons, Weekends morning or afternoon. Allow 1-2 week scheduling of your LA Tour. It's possible to schedule
 a tour with 72 hours notice. You can text me 619 694-7522 or send me an email me at ellesnapsvideo@gmail.com . Ask for Elle.
