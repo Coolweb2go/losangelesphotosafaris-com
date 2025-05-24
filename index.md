@@ -60,7 +60,7 @@ Portrait Shoot Pricing ; $ 200 for 2 hours. 30 digital photos, 2 outfits, 2 look
 
 **Portrait Shooting Dates & Locations:** 
 
-April 2- May 30, 2023/ By appointment only. Any late afternoon weekdays or weekends. Lighting is key to getting great photos. Locations: santa Monica, Venice Beach, Downtown LA
+May 25-June 30, 2025 By appointment only. Any late afternoon weekdays or weekends. Lighting is key to getting great photos. Locations: Santa Monica, Venice Beach, Downtown LA
 
 <img src="https://americabyrailandbus.files.wordpress.com/2022/02/la-brea-tar-pits-los-angeles-photo-safaris.jpg" alt="La Brea Tar Pits">
 
