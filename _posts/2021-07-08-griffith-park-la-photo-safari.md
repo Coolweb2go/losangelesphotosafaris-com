@@ -19,7 +19,7 @@ Are you a tourist who want get better photography skills ?
 Great tour for any photographer who wants a panoramic view of Los Angeles. Sunset and night views are the best.
 
 ### Dates available : 
-March 28 - June 28,2025 - Starts at 1 or 2 pm.
+May 28 -July 28,2025 - Starts 2 pm.
 
 ## What you will learn:
 * Digital camera basics - Bring a Canon or Nikon DSLR or any brand, Long telephoto lens ( 200 mm min )
