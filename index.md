@@ -27,10 +27,10 @@ Depending on your tour, sites and attractions covered may include some of the fo
 ### Pricing for walking tours
 $ 250 ( 1-2 persons ), $ 400 (3-4 people ).
 
-#### Available Dates : May 26 - June 26,2025 - Available by appointment only
+#### Available Dates : May 26 - July 26,2025 - Available by appointment only
 
 Weekday afternoons, Weekends morning or afternoon. Allow 1-2 week scheduling of your LA Tour. It's possible to schedule
-a tour with 72 hours notice. You can text me 619 694-7522 or send me an email me at ellesnapsvideo@gmail.com . Ask for Elle.
+a tour with 72 hours notice. Send me an email me at ellesnapsvideo@gmail.com . Ask for Elle.
 
 
 ---
@@ -60,14 +60,13 @@ Portrait Shoot Pricing ; $ 200 for 2 hours. 30 digital photos, 2 outfits, 2 look
 
 **Portrait Shooting Dates & Locations:** 
 
-May 25-June 30, 2025 By appointment only. Any late afternoon weekdays or weekends. Lighting is key to getting great photos. Locations: Santa Monica, Venice Beach, Downtown LA
+May 25-July 30, 2025 By appointment only. Any late afternoon weekdays or weekends. Lighting is key to getting great photos. Locations: Santa Monica, Venice Beach, Downtown LA
 
 <img src="https://americabyrailandbus.files.wordpress.com/2022/02/la-brea-tar-pits-los-angeles-photo-safaris.jpg" alt="La Brea Tar Pits">
 
 
 **Elle Gamboa/ Photo Tour Guide**
 Need help ? Please send me an email to ellesnapsvideo@gmail.com
-Or give me a call or text at 619 694-7522
 
 #### Search a tour now 
 
